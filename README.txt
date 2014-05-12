@@ -1,1 +1,1 @@
-Le site est disponible � l'adresse suivante: http://resanet.com/resaroute
+Les tâches techniques sont dans le fichier TODO.txtLe site est disponible à l'adresse suivante: http://resanet.com/resaroute
