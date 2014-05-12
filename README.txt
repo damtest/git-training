@@ -1,0 +1,1 @@
+Le site est disponible à l'adresse suivante: http://resanet.com/resaroute
