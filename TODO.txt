@@ -6,3 +6,6 @@ Techno web:
 - backbone
 - JSF
 - TECHNO BIZARRE de TODO
+
+Application lourde:
+- Technologie swing
